@@ -1,6 +1,0 @@
-D:\XD\Programes\0_Projects\SampleDAO\SampleDAO\bin\Debug\SampleDAO.exe.config
-D:\XD\Programes\0_Projects\0_Git\SampleDAO\SampleDAO\bin\Debug\SampleDAO.pdb
-D:\XD\Programes\0_Projects\0_Git\SampleDAO\SampleDAO\obj\Debug\SampleDAO.pdb
-D:\XD\Programes\0_Projects\0_Git\SampleDAO\SampleDAO\bin\Debug\SampleDAO.dll.config
-D:\XD\Programes\0_Projects\0_Git\SampleDAO\SampleDAO\bin\Debug\SampleDAO.dll
-D:\XD\Programes\0_Projects\0_Git\SampleDAO\SampleDAO\obj\Debug\SampleDAO.dll
