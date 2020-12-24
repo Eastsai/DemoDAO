@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<docs>
+  <members name="ConvertDatas">
+    <ConvertDatas>
+      <summary>ConvertDatas</summary>
+    </ConvertDatas>
+    <ConvertSqlDataReaderToList>
+      <summary>Convert SqlDataReader to List</summary>
+      <typeparam name="T"></typeparam>
+      <param name="datas">SqlDataReader</param>
+      <return>List&lt;T&gt;</return>
+      <c>ConvertSqlDataReaderToList</c>
+      <example>
+        <code>
+          SqlDataReader sdr = sqlcmd.ExecuteReader();
+          DataTable dt = ConvertSqlDataReaderToList(sdr);
+        </code>
+      </example>
+      <see cref="ConvertSqlDataReaderToList{T}(SqlDataReader)"/>
+    </ConvertSqlDataReaderToList>
+    <ConvertDataTableToList>
+      <summary>Convert DataTable to List</summary>
+      <typeparam name="T"></typeparam>
+      <param name="datas">DataTable</param>
+      <return>List&lt;T&gt;</return>
+      <c>ConvertDataTableToList</c>
+    </ConvertDataTableToList>
+    <ConvertStringArrayToObjectT>
+      <summary>Convert string[] to T</summary>
+      <typeparam name="T"></typeparam>
+      <param name="datas">DataTable</param>
+      <return>T</return>
+      <c>ConvertStringArrayToObjectT</c>
+    </ConvertStringArrayToObjectT>
+    <ConvertListToDataTable>
+      <summary>Convert List&lt;T&gt; to DataTable</summary>
+      <typeparam name="T"></typeparam>
+      <param name="datas">List&lt;T&gt;</param>
+      <return>DataTable</return>
+      <c>ConvertListToDataTable</c>
+    </ConvertListToDataTable>      
+  </members>
+</docs>
